@@ -1,0 +1,58 @@
+.fa {
+  display: flex-box;
+  margin-top: 20px;
+  padding-top: 5px;
+  margin-left: 5px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border: grey solid 3px;
+  border-radius: 10px;
+
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-linkedin {
+  background: #3B5998;
+  border-color: rgb(111, 129, 248);
+  color: white;
+}
+
+.fa-facebook {
+  background: #1d4fba;
+  border-color: rgb(111, 129, 248);
+  color: white;
+}
+
+.fa-twitter {
+  background: #8da8e0;
+  border-color: rgb(111, 129, 248);
+  color: white;
+}
+
+.fa-instagram {
+  background: #e699d5;
+  border-color: #652259;
+  color: purple;
+}
+
+.fa-github {
+  background: black;
+  border-color: rgb(101, 118, 102);
+  color: white;
+}
+
+.fa-youtube {
+  background: red;
+  border-color: rgb(101, 118, 102);
+  color: white;
+}
+
+h5 {
+  margin-left: 5px;
+  margin-bottom: 20px;
+}
