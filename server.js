@@ -11,6 +11,11 @@ require("./db");
 dotenv.config();
 const app = express();
 
+app.get("/",(req,res)=>{
+  res.json("HI");
+  console.log("hi"); 
+})
+
 app.use(express.json());
 
 if (process.env.NODE_ENV === "development") {
