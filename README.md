@@ -9,6 +9,7 @@ You can check this website through this link - https://order-f-oo-d.herokuapp.co
 
 - MongoDB
 - Expressjs
+- Nextjs
 - Reactjs
 - Nodejs
 - Json Web Token
